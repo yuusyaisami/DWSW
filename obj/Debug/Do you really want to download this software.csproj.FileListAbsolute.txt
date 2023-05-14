@@ -1,0 +1,12 @@
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\bin\Debug\Do you really want to download this software.exe.config
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\bin\Debug\Do you really want to download this software.exe
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\bin\Debug\Do you really want to download this software.pdb
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.csproj.AssemblyReference.cache
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.csproj.SuggestedBindingRedirects.cache
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do_you_really_want_to_download_this_software.Form1.resources
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do_you_really_want_to_download_this_software.Properties.Resources.resources
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do_you_really_want_to_download_this_software.TitleControl.resources
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.exe
+C:\Users\macar\source\repos\Do you really want to download this software\Do you really want to download this software\obj\Debug\Do you really want to download this software.pdb
